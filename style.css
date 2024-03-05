@@ -1,0 +1,27 @@
+.form1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-items: stretch;
+  margin-bottom: 30px;
+}
+.form-select{
+  width: 400px;
+  margin-left: 50px;
+}
+body{
+  background: url("background.jpg");
+  background-size: 100%;
+  
+}
+h1{
+  color: white;
+}
+.smallcard{
+  height: 250px;
+  width: 200px;
+  margin: 5px ;
+}
+.bigcard img{
+  height: 300px;
+}
